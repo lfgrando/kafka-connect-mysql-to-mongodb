@@ -29,4 +29,4 @@ Follow the steps to see it running:
    1. Control Center Connect to see your tasks;
    2. Control Center Topics to see the topic `mysql-server.mysql-source-db.products` that Kafka Connect generated to transfer data;
    3. Mongo Express on `http://localhost:8085` to see the results on MongoDB on database `mongo-sink-database` and collection `mysql-server.mysql-source-db.products`.
-10. OPTIONAL: Repeat the step 2.6 to insert more products and watch them be transfered from one database to another.
+10. OPTIONAL: Repeat the step 2.VI to insert more products and watch them be transfered from one database to another.
