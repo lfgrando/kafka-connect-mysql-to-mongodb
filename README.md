@@ -7,7 +7,7 @@ We configure Kafka Connect to use:
 - Connector `mongodb/kafka-connect-mongodb:1.5.0` to sink data to MongoDB;
 - Plugin SMT (Single Message Transformation) to extract only the `after` field, which contains the value inserted in MySQL database.
 
-#How To Run
+##How To Run
 
 Follow the steps to see it runing:
 
