@@ -9,7 +9,7 @@ We configure Kafka Connect to use:
 
 ## How To Run
 
-Follow the steps to see it runing:
+Follow the steps to see it running:
 
 1. Execute `docker-compose up -d` and wait to all containers to start up;
 2. Setup MySQL database:
